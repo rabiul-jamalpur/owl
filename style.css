@@ -1,0 +1,58 @@
+.main-area {
+    margin: 100px;
+    margin-top: 100px;
+}
+
+.under-line {
+    height: 5px;
+    width: 70px;
+    background: rgb(215, 221, 223);
+    border-radius: 20%;
+}
+
+.under-line1 {
+    height: 5px;
+    width: 55px;
+    background: rgb(53, 139, 214);
+    border-radius: 20%;
+}
+
+.heading-area h1 {
+    font: size 17px;
+}
+
+.heading-area p {
+    opacity: 50%;
+}
+
+.single-item p {
+    opacity: 55%;
+}
+
+.single-item h4 {
+    opacity: 80%;
+}
+
+.owl-nav {
+    text-size: 20px;
+    margin-top: -570px !important;
+    margin-left: 1350px;
+}
+
+
+/* nav array styel */
+
+.owl-left-array {
+    position: absolute;
+    background: rgb(241, 235, 235);
+    padding: 10px 20px;
+    left: 93%;
+    bottom: 40%;
+}
+
+.owl-right-array {
+    position: relative;
+    background: rgb(24, 211, 224);
+    padding: 10px 20px;
+
+}
